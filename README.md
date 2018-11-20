@@ -1,2 +1,5 @@
 # hello-world
-new live beginning
+
+Hello Jake,
+
+One live ended, another begin 
